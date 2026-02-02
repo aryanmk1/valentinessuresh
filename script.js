@@ -28,7 +28,7 @@ const messages = [
     "I'm sad now, reconsider?",
     "Really sure??",
     "Sure????",
-    "Tiger pleaseeee",
+    "pleaseeee",
     "Just think about it!",
     "If you say no, I will be vv sad",
     "I'm vvvv sad.",
@@ -52,3 +52,4 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
