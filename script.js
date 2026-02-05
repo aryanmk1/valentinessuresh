@@ -25,16 +25,14 @@
 
 
 const messages = [
-    "I'm sad now, reconsider?",
-    "Really sure??",
-    "Sure????",
-    "pleaseeee",
-    "Just think about it!",
-    "If you say no, I will be vv sad",
-    "I'm vvvv sad.",
-    "I will be very very very sad",
-    "Ok fine, I will stop asking",
-    "Obvously not, say yes please! ❤️"
+    "Are you sure??",
+    "Thoda socho",
+    "I'll be sad",
+    "Seriously I'll be sad",
+    "Shit yaar",
+    "Sad ho jayega",
+    "Come on bro",
+    
 ];
 
 let messageIndex = 0;
@@ -52,4 +50,5 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
 
